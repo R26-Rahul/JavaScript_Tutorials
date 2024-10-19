@@ -1,2 +1,2 @@
 # JavaScript_Tutorials
-JavaScript Tutorials section 
+# JavaScript Tutorials section 
